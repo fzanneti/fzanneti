@@ -1,4 +1,4 @@
-<img src ## @fzanneti 👋 Olá! Eu sou o Fabio Zanneti
+![icon]() ## @fzanneti 👋 Olá! Eu sou o Fabio Zanneti
 
 🎯 Em transição de carreira | 💼 Experiência em Compras e Área Fiscal | 💻 Apaixonado por Tecnologia e IA | 📍 São Paulo - Brasil
 
