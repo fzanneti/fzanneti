@@ -2,11 +2,14 @@
 
 ## 👋 Olá! Eu sou o Fabio Zanneti
 
-🎯 Em transição de carreira | 💼 Experiência em Compras e Área Fiscal | 💻 Apaixonado por Tecnologia e IA | 📍 São Paulo - Brasil
+🎯 Em transição de carreira  
+💼 Experiência em Compras e Área Fiscal  
+💻 Apaixonado por Tecnologia e IA   
+📍 Ferraz de Vasconcelos - SP - Brasil  
 
 ---
 
-## 💡 Sobre mim
+### 💡 Sobre mim
 
 Sou um profissional com mais de 10 anos de experiência nas áreas de **Compras** e **Fiscal**, atuando com responsabilidade, organização e foco em resultados. Após uma longa trajetória no setor corporativo, decidi **mudar de rota** e me dedicar a áreas que sempre me encantaram: **tecnologia**, **inteligência artificial**, **design**, e **projetos criativos**.
 
@@ -20,7 +23,7 @@ Hoje, mergulho de cabeça no universo digital, buscando **aprender constantement
 
 ---
 
-## 🚀 O que você vai encontrar aqui
+### 🚀 O que você vai encontrar aqui
 
 - 📂 Repositórios com projetos e anotações de cursos que estou fazendo
 - 📄 Certificados de especializações (em destaque: Microsoft, DIO, Azure, entre outros)
@@ -29,7 +32,7 @@ Hoje, mergulho de cabeça no universo digital, buscando **aprender constantement
 
 ---
 
-## 📚 Cursos em andamento
+### 📚 Cursos em andamento
 
 Estou constantemente estudando em plataformas como:
 
@@ -39,7 +42,7 @@ Estou constantemente estudando em plataformas como:
 
 ---
 
-## 📈 Objetivo
+### 📈 Objetivo
 
 Meu objetivo é migrar profissionalmente para uma área onde eu possa unir criatividade, tecnologia e propósito. Estou aberto a **freelas**, **colaborações** e **oportunidades remotas** nas áreas de:
 
@@ -51,7 +54,7 @@ Meu objetivo é migrar profissionalmente para uma área onde eu possa unir criat
 
 ---
 
-## 📬 Como me encontrar
+### 📬 Como me encontrar
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)
 - 📧 Email: seuemail@exemplo.com
