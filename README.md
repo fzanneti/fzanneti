@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Fabio Zanneti (fzanneti)
+# 👋 Fabio Zanneti (fzanneti)
 
 🎯 Em transição de carreira  
 💼 Experiência em Compras e Área Fiscal  
