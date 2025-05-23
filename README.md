@@ -54,8 +54,8 @@ Meu objetivo é migrar profissionalmente para uma área onde eu possa unir criat
 
 ### 📬 Como me encontrar
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)
-- 📧 Email: seuemail@exemplo.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/fabio-zanneti-da-silva-3bb97a146)
+- 📧 Email: fzanneti@gmail.com
 - 💬 Sempre aberto para conversar e trocar experiências!
 
 ---
