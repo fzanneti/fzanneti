@@ -1,4 +1,4 @@
-# 👋 Fabio Zanneti (fzanneti)
+<h2><img src="https://github.com/fzanneti/fzanneti/blob/badbe53dd87f5d8c58abaf6e1c7f99be340f405f/assets/image/mini_logo.png" alt="logo" width="40" align="center"> - Fabio Zanneti - @fzanneti</h2>
 
 🎯 Em transição de carreira  
 💼 Experiência em Compras e Área Fiscal  
