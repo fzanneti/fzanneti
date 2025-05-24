@@ -1,11 +1,12 @@
-<h2><img src="https://github.com/fzanneti/fzanneti/blob/badbe53dd87f5d8c58abaf6e1c7f99be340f405f/assets/image/mini_logo.png" alt="logo" width="40" align="center"> - Fabio Zanneti - @fzanneti</h2>
+<h2 align="center"><img src="https://github.com/fzanneti/fzanneti/blob/badbe53dd87f5d8c58abaf6e1c7f99be340f405f/assets/image/mini_logo.png" alt="logo" width="40" align="center"> - Fabio Zanneti - @fzanneti</h2>
 
-🎯 Em transição de carreira  
-💼 Experiência em Compras e Área Fiscal  
-💻 Apaixonado por Tecnologia e IA   
-📍 Ferraz de Vasconcelos - SP - Brasil  
+<img src="https://github.com/fzanneti/fzanneti/blob/138264c8ff25cbd538d179a9a9a82beb232a7c37/assets/image/banner.png" alt="logo" width="400
+" align="right">
 
----
+- 🎯 Em transição de carreira              <br>
+- 💼 Experiência em Compras e Área Fiscal  <br> 
+- 💻 Apaixonado por Tecnologia e IA        <br>
+- 📍 Ferraz de Vasconcelos - SP - Brasil   <br>
 
 ### 💡 Sobre mim
 
