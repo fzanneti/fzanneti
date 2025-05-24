@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-37ccab?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-zanneti-da-silva-3bb97a146)
 [![GitHub](https://img.shields.io/badge/GitHub-7a49c6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fzanneti)
 [![Gmail](https://img.shields.io/badge/Gmail-261d31?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fzanneti@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-37ccab?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fzanneti)
 
 > 🎯 Em transição de carreira / In career transition                              <br>
 > 💼 Experiência em Compras e Área Fiscal / Experience in Purchasing and Tax Area <br> 
