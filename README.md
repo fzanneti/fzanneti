@@ -69,8 +69,7 @@ Creation of educational materials, presentations and visual identity for digital
 - 🛠️ Projetos em construção e experimentos com IA - Projects under construction and experiments with AI
 - 🎨 Materiais criativos de apresentação e design - Creative presentation and design materials
 
-* Destaque (acesse) / Featured (access the link) -> [cytotron_tech_sciencecytotron_tech_science
-](https://github.com/fzanneti/cytotron_tech_science)
+* Destaque (acesse) / Featured (access the link) -> [cytotron_tech_science](https://github.com/fzanneti/cytotron_tech_science)
 
 ---
 
