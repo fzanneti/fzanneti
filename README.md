@@ -1,6 +1,6 @@
 <h2 align="left"><img src="https://github.com/fzanneti/fzanneti/blob/badbe53dd87f5d8c58abaf6e1c7f99be340f405f/assets/image/mini_logo.png" alt="logo" width="40" align="center"> - Fabio Zanneti da Silva - fzanneti</h2>
 
-## 🖱️ Vamos nos conectar! - Let's connect!
+### 🖱️ Vamos nos conectar! - Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-37ccab?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-zanneti-da-silva-3bb97a146)
 [![GitHub](https://img.shields.io/badge/GitHub-7a49c6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fzanneti)
@@ -13,7 +13,7 @@
 
 ---
 
-## 💡 Sobre mim - About me
+### 💡 Sobre mim - About me
 
 <img src="https://github.com/fzanneti/fzanneti/blob/138264c8ff25cbd538d179a9a9a82beb232a7c37/assets/image/banner.png" alt="logo" width="400" align="right">
 
@@ -62,20 +62,20 @@ Creation of educational materials, presentations and visual identity for digital
 
 ---
 
-## 🚀 O que você vai encontrar aqui / What you will find here
+### 🚀 O que você vai encontrar aqui / What you will find here
 
 - 📂 Repositórios com projetos e anotações de cursos que estou fazendo / Repositories with projects and notes from courses I'm taking
 - 📄 Certificados de especializações (em destaque: Microsoft, DIO, Azure, entre outros) / Specialization certificates (highlighted: Microsoft, DIO, Azure, among others)
 - 🛠️ Projetos em construção e experimentos com IA - Projects under construction and experiments with AI
 - 🎨 Materiais criativos de apresentação e design - Creative presentation and design materials
 
-* Destaque (acesse) / Featured (access the link):
+### **Em destaque (acesse o repositório abaixo) / Featured (access the repository below):**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fzanneti&repo=cytotron_tech_science&bg_color=261d31&border_color=7a49c6&show_icons=true&icon_color=7a49c6&title_color=37ccab&text_color=FFF)](https://github.com/fzanneti/cytotron_tech_science)
 
 ---
 
-## 📚 Cursos em andamento / Courses in progress
+### 📚 Cursos em andamento / Courses in progress
 
 Estou constantemente estudando em plataformas como:  
 I am constantly studying on platforms such as:
@@ -86,7 +86,7 @@ I am constantly studying on platforms such as:
 
 ---
 
-## 📈 Objetivo / Objective
+### 📈 Objetivo / Objective
 
 Meu objetivo é migrar profissionalmente para uma área onde eu possa unir criatividade, tecnologia e propósito. Estou aberto a **freelas**, **colaborações** e **oportunidades remotas** nas áreas de:  
 My goal is to become a professional and enter a field where I can combine creativity, technology and purpose. I am open to **freelance**, **collaborations** and **remote opportunities** in the following areas:
