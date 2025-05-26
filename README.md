@@ -49,16 +49,16 @@ Creation of digital objects and environments for commercial presentation and pro
 - Content Production and Visual Design:
 Creation of educational materials, presentations and visual identity for digital projects, portfolios and social networks.
 
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-37ccab?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Markdown](https://img.shields.io/badge/Markdown-7a49c6?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML5-261d31?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-37ccab?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-7a49c6?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-261d31?style=for-the-badge&logo=github&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-37ccab?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-7a49c6?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
+![C#](https://img.shields.io/badge/C%23-261d31?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-37ccab?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
 
