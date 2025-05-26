@@ -21,11 +21,16 @@ Sou um profissional com mais de 10 anos de experiência nas áreas de **Compras*
 
 Hoje, mergulho de cabeça no universo digital, buscando **aprender constantemente** e aplicar meu conhecimento em soluções reais. Estou construindo meu portfólio e me desenvolvendo em áreas como:
 
-- Engenharia de Prompts
-- Computação em Nuvem com Azure
-- Lógica de Programação e Pensamento Computacional
-- Modelagem 3D
-- Produção de Conteúdo e Design Visual
+- Engenharia de Prompts e IA Generativa:
+Aplicações práticas com LLMs, automação com IA, construção de agentes autônomos e fluxos com ferramentas como ChatGPT, ComfyUI e outras.
+- Computação em Nuvem com Azure:
+Conceitos de DevOps, deploy de aplicações, versionamento com GitHub e integração com ambientes cloud.
+- Lógica de Programação e Pensamento Computacional:
+Bases da programação com foco em resolução de problemas, utilizando principalmente C# na plataforma .NET.
+- Modelagem 3D e Design de Produto:
+Criação de objetos e ambientes digitais para apresentação comercial e visualização de produtos.
+- Produção de Conteúdo e Design Visual:
+Criação de materiais educativos, apresentações e identidade visual para projetos digitais, portfólios e redes sociais.
 
 ---
 
@@ -33,11 +38,16 @@ I am a professional with over 10 years of experience in the **Purchasing** and *
 
 Today, I am diving headfirst into the digital universe, seeking to **constantly learn** and apply my knowledge to real solutions. I am building my portfolio and developing myself in areas such as:
 
-- Prompt Engineering
-- Cloud Computing with Azure
-- Programming Logic and Computational Thinking
-- 3D Modeling
-- Content Production and Visual Design
+- Prompt Engineering and Generative AI:
+Practical applications with LLMs, automation with AI, building autonomous agents and flows with tools such as ChatGPT, ComfyUI and others.
+- Cloud Computing with Azure:
+DevOps concepts, application deployment, versioning with GitHub and integration with cloud environments.
+- Programming Logic and Computational Thinking:
+Basics of programming with a focus on problem solving, mainly using C# on the .NET platform.
+- 3D Modeling and Product Design:
+Creation of digital objects and environments for commercial presentation and product visualization.
+- Content Production and Visual Design:
+Creation of educational materials, presentations and visual identity for digital projects, portfolios and social networks.
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
