@@ -77,12 +77,21 @@ Creation of educational materials, presentations and visual identity for digital
 
 ### 📚 Cursos em andamento / Courses in progress
 
-Estou constantemente estudando em plataformas como:  
-I am constantly studying on platforms such as:
+Estou em constante aprendizado, aprofundando meus conhecimentos através de plataformas confiáveis e com foco prático em tecnologia:     
+I am continuously learning and deepening my knowledge through trusted platforms with a practical focus on technology:
 
-- [DIO](https://www.dio.me/)
-- Microsoft Learn
-- Cursos livres com foco prático em tecnologia / Free courses with a practical focus on technology  
+DIO – Formação em .NET, C#, Git/GitHub e fundamentos de Engenharia de Software   
+Microsoft Learn – Conteúdos oficiais sobre .NET, Azure, C#, Cloud e DevOps
+
+> - Cursos complementares em plataformas abertas (YouTube, sites especializados) com foco em:
+>
+>    - Desenvolvimento C# e .NET
+>    - Fundamentos de Programação
+>    - Lógica Computacional
+>    - Estruturas de Dados
+>    - Engenharia de Prompts
+>    - Computação em Nuvem (Azure)
+>    - Design e Modelagem 3D 
 
 ---
 
