@@ -73,6 +73,8 @@ Creation of educational materials, presentations and visual identity for digital
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fzanneti&repo=cytotron_tech_science&bg_color=261d31&border_color=7a49c6&show_icons=true&icon_color=7a49c6&title_color=37ccab&text_color=FFF)](https://github.com/fzanneti/cytotron_tech_science)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fzanneti&repo=wex_e2e_csharp&bg_color=261d31&border_color=7a49c6&show_icons=true&icon_color=7a49c6&title_color=37ccab&text_color=FFF)](https://github.com/fzanneti/wex_e2e_csharp/tree/main/study_project)
+
 ---
 
 ### 📚 Cursos em andamento / Courses in progress
