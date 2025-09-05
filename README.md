@@ -1,23 +1,21 @@
 <h2 align="left"><img src="https://github.com/fzanneti/fzanneti/blob/badbe53dd87f5d8c58abaf6e1c7f99be340f405f/assets/image/mini_logo.png" alt="logo" width="40" align="center"> - Fabio Zanneti da Silva - fzanneti</h2>
 
-### 🖱️ Vamos nos conectar! - Let's connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-37ccab?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-zanneti-da-silva-3bb97a146)
-[![GitHub](https://img.shields.io/badge/GitHub-7a49c6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fzanneti)
-[![Gmail](https://img.shields.io/badge/Gmail-261d31?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fzanneti@gmail.com)
-
-> 🎯 Em transição de carreira / In career transition                              <br>
-> 💼 Experiência em Compras e Área Fiscal / Experience in Purchasing and Tax Area <br> 
-> 💻 Apaixonado por Tecnologia e IA / Passionate about Technology and AI          <br>
-> 📍 Ferraz de Vasconcelos - SP - Brasil
+*❝ Nunca é tarde para recomeçar. Quando a vontade é maior que o medo, o impossível se torna apenas questão de tempo.❞*
 
 ---
 
-### 💡 Sobre mim - About me
+- 🎯 Em transição de carreira     
+- 💼 Experiência em Compras e Área Fiscal      
+- 💻 Apaixonado por Tecnologia e IA    
+- 📍 Ferraz de Vasconcelos - SP - Brasil     
+
+---
+
+### Sobre mim
 
 <img src="https://github.com/fzanneti/fzanneti/blob/1812c882b3f7b150bea1e35a99d2e02feaab7daf/assets/image/01.png" alt="logo" width="400" align="right">
 
-Sou um profissional com mais de 10 anos de experiência nas áreas de **Compras** e **Fiscal**, atuando com responsabilidade, organização e foco em resultados. Após uma longa trajetória no setor corporativo, decidi **mudar de rota** e me dedicar a áreas que sempre me encantaram: **tecnologia**, **inteligência artificial**, **design**, e **projetos criativos**.
+Sou um profissional com mais de 10 anos de experiência nas áreas de **Compras** e **Fiscal**, atuando com responsabilidade, organização e foco em resultados. Após uma longa trajetória no setor corporativo, decidi **mudar de rota** e me dedicar a áreas que sempre me encantaram: **tecnologia**, **inteligência artificial**, **design** e **projetos criativos**.
 
 Hoje, mergulho de cabeça no universo digital, buscando **aprender constantemente** e aplicar meu conhecimento em soluções reais. Estou construindo meu portfólio e me desenvolvendo em áreas como:
 
@@ -31,24 +29,7 @@ Bases da programação com foco em resolução de problemas, utilizando principa
 Criação de objetos e ambientes digitais para apresentação comercial e visualização de produtos.
 - Produção de Conteúdo e Design Visual:
 Criação de materiais educativos, apresentações e identidade visual para projetos digitais, portfólios e redes sociais.
-
----
-
-I am a professional with over 10 years of experience in the **Purchasing** and **Tax** areas, working responsibly, organized and focused on results. After a long career in the corporate sector, I decided to **change direction** and dedicate myself to areas that have always fascinated me: **technology**, **artificial intelligence**, **design** and **creative projects**.
-
-Today, I am diving headfirst into the digital universe, seeking to **constantly learn** and apply my knowledge to real solutions. I am building my portfolio and developing myself in areas such as:
-
-- Prompt Engineering and Generative AI:
-Practical applications with LLMs, automation with AI, building autonomous agents and flows with tools such as ChatGPT, ComfyUI and others.
-- Cloud Computing with Azure:
-DevOps concepts, application deployment, versioning with GitHub and integration with cloud environments.
-- Programming Logic and Computational Thinking:
-Basics of programming with a focus on problem solving, mainly using C# on the .NET platform.
-- 3D Modeling and Product Design:
-Creation of digital objects and environments for commercial presentation and product visualization.
-- Content Production and Visual Design:
-Creation of educational materials, presentations and visual identity for digital projects, portfolios and social networks.
-
+      
 ![Windows](https://img.shields.io/badge/Windows-37ccab?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Markdown](https://img.shields.io/badge/Markdown-7a49c6?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-261d31?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,63 +43,26 @@ Creation of educational materials, presentations and visual identity for digital
 
 ---
 
-### 🚀 O que você vai encontrar aqui / What you will find here
+## O que você vai encontrar aqui    
 
-- 📂 Repositórios com projetos e anotações de cursos que estou fazendo / Repositories with projects and notes from courses I'm taking
-- 📄 Certificados de especializações (em destaque: Microsoft, DIO, Azure, entre outros) / Specialization certificates (highlighted: Microsoft, DIO, Azure, among others)
-- 🛠️ Projetos em construção e experimentos com IA - Projects under construction and experiments with AI
-- 🎨 Materiais criativos de apresentação e design - Creative presentation and design materials
+- 📂 Repositórios com projetos e anotações de cursos que estou fazendo    
+- 📄 Certificados de especializações (em destaque: Microsoft, DIO, Azure, entre outros)    
+- 🛠️ Projetos em construção e experimentos com IA    
+- 🎨 Materiais criativos de apresentação e design         
 
-### **Em destaque (acesse o repositório abaixo) / Featured (access the repository below):**
+### **Repositórios (Destaque):**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fzanneti&repo=cytotron_tech_science&bg_color=261d31&border_color=7a49c6&show_icons=true&icon_color=7a49c6&title_color=37ccab&text_color=FFF)](https://github.com/fzanneti/cytotron_tech_science)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fzanneti&repo=wex_e2e_csharp&bg_color=261d31&border_color=7a49c6&show_icons=true&icon_color=7a49c6&title_color=37ccab&text_color=FFF)](https://github.com/fzanneti/wex_e2e_csharp)
-
 ---
 
-### 📚 Cursos em andamento / Courses in progress
+## Como me encontrar?    
 
-Estou em constante aprendizado, aprofundando meus conhecimentos através de plataformas confiáveis e com foco prático em tecnologia:     
-I am continuously learning and deepening my knowledge through trusted platforms with a practical focus on technology:
-
-DIO – Formação em .NET, C#, Git/GitHub e fundamentos de Engenharia de Software   
-Microsoft Learn – Conteúdos oficiais sobre .NET, Azure, C#, Cloud e DevOps
-
-> - Cursos complementares em plataformas abertas (YouTube, sites especializados) com foco em:
->
->    - Desenvolvimento C# e .NET
->    - Fundamentos de Programação
->    - Lógica Computacional
->    - Estruturas de Dados
->    - Engenharia de Prompts
->    - Computação em Nuvem (Azure)
->    - Design e Modelagem 3D 
-
----
-
-### 📈 Objetivo / Objective
-
-Meu objetivo é migrar profissionalmente para uma área onde eu possa unir criatividade, tecnologia e propósito. Estou aberto a **freelas**, **colaborações** e **oportunidades remotas** nas áreas de:  
-My goal is to become a professional and enter a field where I can combine creativity, technology and purpose. I am open to **freelance**, **collaborations** and **remote opportunities** in the following areas:
-
-- Suporte em tecnologia / Technological support  
-- Prompt engineering / Agile engineering  
-- Criação de conteúdo com IA / Content creation with AI  
-- Automação de processos simples / Simplified process automation  
-- Backoffice digital / Digital back office
-
----
-
-### 📬 Como me encontrar / How to find me
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/fabio-zanneti-da-silva-3bb97a146)
-- 📧 Email: fzanneti@gmail.com
-- 💬 Sempre aberto para conversar e trocar experiências!
-
----
-
-**“Nunca é tarde para recomeçar. Quando a vontade é maior que o medo, o impossível se torna apenas questão de tempo.”**   
-**“It’s never too late to start over. When the will is greater than the fear, the impossible becomes just a matter of time.”**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-37ccab?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-zanneti-da-silva-3bb97a146)
+[![GitHub](https://img.shields.io/badge/GitHub-7a49c6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fzanneti)
+[![Gmail](https://img.shields.io/badge/Gmail-261d31?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fzanneti@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511953851008)    
+         
+💬 *Sempre aberto para conversar e trocar experiências!*
 
 ---
