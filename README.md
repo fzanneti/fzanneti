@@ -56,6 +56,8 @@ Criação de materiais educativos, apresentações e identidade visual para proj
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fzanneti&repo=DIO-linux-fundamentals-training&bg_color=261d31&border_color=7a49c6&show_icons=true&icon_color=7a49c6&title_color=37ccab&text_color=FFF)](https://github.com/fzanneti/DIO-linux-fundamentals-training)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fzanneti&repo=DIO-wex-e2e-csharp&bg_color=261d31&border_color=7a49c6&show_icons=true&icon_color=7a49c6&title_color=37ccab&text_color=FFF)](https://github.com/fzanneti/DIO-wex-e2e-csharp)
+
 ---
 
 ## Como me encontrar?    
