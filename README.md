@@ -45,14 +45,16 @@ Criação de materiais educativos, apresentações e identidade visual para proj
 
 ## O que você vai encontrar aqui    
 
-- 📂 Repositórios com projetos e anotações de cursos que estou fazendo    
-- 📄 Certificados de especializações (em destaque: Microsoft, DIO, Azure, entre outros)    
-- 🛠️ Projetos em construção e experimentos com IA    
-- 🎨 Materiais criativos de apresentação e design         
+- Repositórios com projetos e anotações de cursos que estou fazendo    
+- Certificados de especializações (em destaque: Microsoft, DIO, Azure, entre outros)    
+- Projetos em construção e experimentos com IA    
+- Materiais criativos de apresentação e design         
 
-### **Repositórios (Destaque):**
+### **Repositórios Públicos:**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fzanneti&repo=cytotron_tech_science&bg_color=261d31&border_color=7a49c6&show_icons=true&icon_color=7a49c6&title_color=37ccab&text_color=FFF)](https://github.com/fzanneti/cytotron_tech_science)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fzanneti&repo=DIO-linux-fundamentals-training&bg_color=261d31&border_color=7a49c6&show_icons=true&icon_color=7a49c6&title_color=37ccab&text_color=FFF)](https://github.com/fzanneti/DIO-linux-fundamentals-training)
 
 ---
 
