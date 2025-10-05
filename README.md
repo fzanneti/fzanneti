@@ -13,7 +13,7 @@
 
 ### Sobre mim
 
-<img src="https://github.com/fzanneti/fzanneti/blob/main/assets/image/01.png" alt="logo" width="400" align="right">
+<img src="https://github.com/fzanneti/fzanneti/blob/81337687534ece88af3de73b0c2fa5249478780b/assets/image/01.png" alt="logo" width="400" align="right">
 
 Sou um profissional com mais de 10 anos de experiência nas áreas de **Compras** e **Fiscal**, atuando com responsabilidade, organização e foco em resultados. Após uma longa trajetória no setor corporativo, decidi **mudar de rota** e me dedicar a áreas que sempre me encantaram: **tecnologia**, **inteligência artificial**, **design** e **projetos criativos**.
 
